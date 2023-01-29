@@ -142,7 +142,7 @@ nav .nav-list {
   border: 0;
 }
 
-.hero-button:hover {
+.hero button:hover {
   background: var(--pressed-state);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
